@@ -1,1 +1,1 @@
-# icryptify_TC
+# terms.html
